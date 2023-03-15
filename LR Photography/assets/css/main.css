@@ -92,7 +92,7 @@ input, select, textarea {
 
 	body {
 		background: url("../../images/intro.jpg");
-		background-size: cover;
+		background-size: 256px 256px cover;
 		background-attachment: fixed, fixed;
 		background-position: bottom left, center;
 		background-repeat: repeat, no-repeat;
